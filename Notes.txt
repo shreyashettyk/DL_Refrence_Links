@@ -18,8 +18,7 @@ https://arxiv.org/pdf/1412.6980.pdf
 https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/
 
 
-https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/3386/word2vec-cbow/8/module-8-neural-networks-computer-vision-and-deep-learning
-https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/3395/word2vec-skip-gram/8/module-8-neural-networks-computer-vision-and-deep-learning
+
 https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
 http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
 https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
